@@ -1,0 +1,6 @@
+{
+  "name": "Lightbot Camp Studio 3D",
+  "description": "เกมฝึกคิดเชิงคำนวณและแข่งขันเขียนโปรแกรมหุ่นยนต์ 3 มิติ 12 ด่าน พร้อมระบบลงทะเบียนทีม ระบบจับเวลา และกระดานคะแนน Matrix 2D",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
